@@ -1,4 +1,5 @@
 Copyright (c) Sout BH
+
 Copyright (c) 2013-2024 GitHub Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining
